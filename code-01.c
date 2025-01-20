@@ -2,6 +2,5 @@
 
 int main()
 {
-    char a[] = "Hello Git";
-    printf("%s", a);
+    printf("Hello Git");
 }
